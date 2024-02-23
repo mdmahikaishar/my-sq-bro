@@ -1,0 +1,15 @@
+[package]
+name = "my-sq-bro"
+version = "0.1.0"
+description = "Rust SQL query builder."
+authors = ["mdmahikaishar <mdmahikaishar@gmail.com>"]
+edition = "2021"
+repository = "https://github.com/mdmahikaishar/my_sq_bro"
+keywords = ["sql", "orm", "database", "query", "query-builder"]
+license = "MIT"
+readme = "README.md"
+include = ["src/**", "README.md"]
+
+[lib]
+name = "my_sq_bro"
+path = "src/lib.rs"
