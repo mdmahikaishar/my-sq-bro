@@ -4,6 +4,11 @@
 
 Rust SQL query builder.
 
+## Get Strated
+
+```bash
+cargo add my-sq-bro
+```
 
 ## Examples
 
